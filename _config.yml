@@ -19,17 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Monos
-email: ejjoo7994@gmail.com
+email: leidachui@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Themed by ejjoo
-# baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ejjoo
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://leidachui.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: leidachui
 highlighter: rouge
 svg:
   optimize: true
 # Build settings
-# theme: minima
+theme: minima
 highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
